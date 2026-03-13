@@ -5,5 +5,5 @@ Erica L. McCormick, Lillian E. Sanders, Kaighin A. McColl, and Alexandra G. Koni
 For full analysis pipeline, see ```workflow_all.sh```.
 
 
-Final SFE ET dataset available on Zenodo (link after acceptance).
+Final SFE ET dataset available on Zenodo: https://zenodo.org/records/17903676
 
