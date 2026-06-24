@@ -15,7 +15,7 @@ def main():
     gridmet_dir = directory + 'gridmet' # temperature and specific humidity
     era5_dir = directory + 'era5land_daily_Rn' # net radiation
     sfe_save_dir = directory + 'SFE'
-    ground_heat_flux = 10 # as a fraction of Rn
+    ground_heat_flux = 0.10 # as a fraction of Rn
 
     print(f"\nAssuming ground heat flux of {ground_heat_flux*100}%\n")
 
